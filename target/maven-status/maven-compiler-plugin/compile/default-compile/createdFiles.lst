@@ -1,0 +1,9 @@
+com/bertoni/test/procesors/TournamentProcesor.class
+com/bertoni/test/Play.class
+com/bertoni/test/pojo/Card.class
+com/bertoni/test/pojo/Hand.class
+com/bertoni/test/procesors/GameProcesor.class
+com/bertoni/test/pojo/Game.class
+com/bertoni/test/file/FileProcesor.class
+com/bertoni/test/TournamentController.class
+com/bertoni/test/pojo/TournamentResults.class
